@@ -1,5 +1,5 @@
-apiVersion: apps/v1
-type: Pod
+apiVersion: v1
+kind: Pod
 metadata:
   name: postgres-pod
   labels:
